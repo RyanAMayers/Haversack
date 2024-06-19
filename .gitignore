@@ -33,3 +33,6 @@
 
 # Demo character sheets
 demos/**/*.pdf
+
+# Misc
+.vscode/
