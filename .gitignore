@@ -27,6 +27,7 @@
 *.lib
 
 # Executables
+exe/
 *.exe
 *.out
 *.app
@@ -36,3 +37,4 @@ demos/**/*.pdf
 
 # Misc
 .vscode/
+ignore/
